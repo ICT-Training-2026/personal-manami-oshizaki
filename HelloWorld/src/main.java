@@ -1,4 +1,4 @@
-//コンフリクトの練習２
+//コンフリクトの練習
 public class main {
 
 	public static void main(String[] args) {
